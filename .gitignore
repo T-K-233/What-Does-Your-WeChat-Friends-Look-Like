@@ -1,4 +1,10 @@
+.vscode
 itchat.pkl
 img/
 enroll_group/
-uva.png
+tests
+build
+dist
+gui.spec
+__pycache__
+venv
